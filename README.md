@@ -1,4 +1,4 @@
-# QuizApp_with_Swift_MVVM
+# QuizApp_MVVM
 
 <hr>
 <h4 align="center">QuizApp! is here <a href="https://github.com/shenmali/QuizApp_with_Swift_MVVM-main" target="_blank">Quiz App</a>.</h4>
